@@ -1,9 +1,3 @@
 123
 r4re
-erwerq
-<<<<<<< HEAD
-123456767
-=======
-
-erwtretwrete
->>>>>>> 9738be47b323db2863883b0911471cc981292745
+rgregewrgf
