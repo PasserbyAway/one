@@ -1,6 +1,12 @@
 124
+<<<<<<< HEAD
 aaaadf
 dfdsf
 
 fdsgfd
 fvfdg
+=======
+aaaa
+dfsddgdf
+gfdgdf
+>>>>>>> 1de6622f53c03b9e8d1d39a181f80d5107ec77c8
